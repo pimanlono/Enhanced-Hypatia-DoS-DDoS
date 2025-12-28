@@ -17,7 +17,7 @@ This contribution provides a practical tool for evaluating mitigation strategies
 Enhanced Hypatia developed in this work
 --------------------
 
-In order to allow the simulation of tcp-syn attacks, the original tcp-socket-base.cc/.h files in ns-3 simulator must be replaced by the files provided here.
+In order to allow the simulation of tcp-syn attacks, the original tcp-socket-base.cc/.h files in ns-3 simulator must be replaced by the files provided in ns3-sat-sim directory.
 The path to the files is:
 src/internet/model/tcp-socket-base.cc
 src/internet/model/tcp-socket-base.h
